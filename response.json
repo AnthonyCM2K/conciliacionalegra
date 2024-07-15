@@ -1,0 +1,257 @@
+{
+    "data": [
+        {
+            "id": 31998,
+            "invoice_date": "2024-06-05T00:00:00Z",
+            "cashbox_id": 23,
+            "alegra_id": "",
+            "alegra_transaction": {
+                "status": "success",
+                "currency": {
+                    "id": 2,
+                    "name": "PEN",
+                    "created_at": "2018-02-01T03:56:09.162209Z",
+                    "updated_at": "2024-02-14T10:29:13.999957Z",
+                    "description": "Soles Peruanos",
+                    "exchange_rate": 3.9
+                },
+                "anotation": "Valor pagado: 84000.000000 COP (1 USD = 4200.000000 COP)",
+                "categories": [
+                    {
+                        "id": 5082,
+                        "tax": {
+                            "id": 2
+                        },
+                        "price": 20,
+                        "quantity": 1,
+                        "observations": "Suscripcion mensual de aj.softwaredeveloper@gmail.com"
+                    }
+                ],
+                "alegra_data": {
+                    "id": 3,
+                    "bank_account": "banco",
+                    "payment_method": "TRANSFER"
+                },
+                "invoice_relation": {
+                    "currency": {
+                        "id": 3,
+                        "name": "COP",
+                        "created_at": "2018-02-01T03:56:09.162209Z",
+                        "updated_at": "2024-02-14T10:29:43.818729Z",
+                        "description": "Pesos Colombianos",
+                        "exchange_rate": 4200
+                    },
+                    "invoice_items": [
+                        {
+                            "id": 36283,
+                            "quantity": 1,
+                            "course_id": 0,
+                            "base_price": 126000,
+                            "created_at": "2024-06-05T08:52:10.201524Z",
+                            "invoice_id": 31998,
+                            "unit_price": 0,
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "currency_id": 3,
+                            "exchange_rate": 4200,
+                            "discount_price": 42000,
+                            "original_price": 84000,
+                            "is_subscription": true,
+                            "is_attending_course": false,
+                            "professor_percentage": 0
+                        }
+                    ],
+                    "invoice_header": {
+                        "id": 31998,
+                        "state": "PAGADO",
+                        "detail": {
+                            "totals": {
+                                "money": 6334.310000000001,
+                                "tickets": 142
+                            },
+                            "created_at_user": "2018-02-01T03:41:39.822331Z",
+                            "first_sale_date": "2022-02-23T00:00:00Z",
+                            "group_created_at": "0001-01-01T00:00:00Z",
+                            "is_first_purchase": false,
+                            "details_before_first_purchase": {
+                                "days_elapsed": 1483,
+                                "subjects_views": 2598
+                            },
+                            "days_elapsed_previous_purchase": 1
+                        },
+                        "support": "dba3fd17-1426-4296-a4cb-2c8862f2425e.jpeg",
+                        "user_id": 723,
+                        "group_id": 0,
+                        "order_id": 0,
+                        "sequence": 142,
+                        "alegra_id": "",
+                        "cashbox_id": 23,
+                        "created_at": "2024-06-05T08:52:10.201524Z",
+                        "updated_at": "0001-01-01T00:00:00Z",
+                        "approved_by": 723,
+                        "invoice_date": "2024-06-05T08:52:11.004048679-05:00",
+                        "observations": "",
+                        "prorated_days": 0,
+                        "payment_method": "SUPPORT",
+                        "subscription_order_id": 40229
+                    }
+                }
+            },
+            "country": "COLOMBIA",
+            "account": "BANCOLOMBIA: Cta Ahorros 91208958165",
+            "approved_by": 723,
+            "approver": "Alejandro Rodriguez",
+            "state": "PAGADO",
+            "support": "dba3fd17-1426-4296-a4cb-2c8862f2425e.jpeg",
+            "payer_email": "",
+            "total": 84000,
+            "payment_support_id": 10718,
+            "coupon_gift_status": "CREATED",
+            "is_gift": true,
+            "items": [
+                {
+                    "is_subscription": true,
+                    "course_id": 0,
+                    "course_name": "",
+                    "currency_id": 3,
+                    "price": 84000,
+                    "professor_percentage": 0,
+                    "course_picture": "",
+                    "exchange_rate": 4200,
+                    "months": 1,
+                    "begins_at": "",
+                    "ends_at": "",
+                    "is_renewal": false
+                }
+            ]
+        },
+        {
+            "id": 31973,
+            "invoice_date": "2024-06-04T00:00:00Z",
+            "cashbox_id": 23,
+            "alegra_id": "",
+            "alegra_transaction": {
+                "status": "success",
+                "currency": {
+                    "id": 2,
+                    "name": "PEN",
+                    "created_at": "2018-02-01T03:56:09.162209Z",
+                    "updated_at": "2024-02-14T10:29:13.999957Z",
+                    "description": "Soles Peruanos",
+                    "exchange_rate": 3.9
+                },
+                "anotation": "Valor pagado: 84000.000000 COP (1 USD = 4200.000000 COP)",
+                "categories": [
+                    {
+                        "id": 5082,
+                        "tax": {
+                            "id": 2
+                        },
+                        "price": 20,
+                        "quantity": 1,
+                        "observations": "Suscripcion mensual de aj.softwaredeveloper@gmail.com"
+                    }
+                ],
+                "alegra_data": {
+                    "id": 3,
+                    "bank_account": "banco",
+                    "payment_method": "TRANSFER"
+                },
+                "invoice_relation": {
+                    "currency": {
+                        "id": 3,
+                        "name": "COP",
+                        "created_at": "2018-02-01T03:56:09.162209Z",
+                        "updated_at": "2024-02-14T10:29:43.818729Z",
+                        "description": "Pesos Colombianos",
+                        "exchange_rate": 4200
+                    },
+                    "invoice_items": [
+                        {
+                            "id": 36258,
+                            "quantity": 1,
+                            "course_id": 0,
+                            "base_price": 126000,
+                            "created_at": "2024-06-04T18:49:39.465117Z",
+                            "invoice_id": 31973,
+                            "unit_price": 0,
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "currency_id": 3,
+                            "exchange_rate": 4200,
+                            "discount_price": 42000,
+                            "original_price": 84000,
+                            "is_subscription": true,
+                            "is_attending_course": false,
+                            "professor_percentage": 0
+                        }
+                    ],
+                    "invoice_header": {
+                        "id": 31973,
+                        "state": "PAGADO",
+                        "detail": {
+                            "totals": {
+                                "money": 6314.310000000001,
+                                "tickets": 141
+                            },
+                            "created_at_user": "2018-02-01T03:41:39.822331Z",
+                            "first_sale_date": "2022-02-23T00:00:00Z",
+                            "group_created_at": "0001-01-01T00:00:00Z",
+                            "is_first_purchase": false,
+                            "details_before_first_purchase": {
+                                "days_elapsed": 1483,
+                                "subjects_views": 2598
+                            },
+                            "days_elapsed_previous_purchase": 0
+                        },
+                        "support": "4e65a9d6-0bba-4b8f-9b0e-00f8d0d05775.jpeg",
+                        "user_id": 723,
+                        "group_id": 0,
+                        "order_id": 0,
+                        "sequence": 141,
+                        "alegra_id": "",
+                        "cashbox_id": 23,
+                        "created_at": "2024-06-04T18:49:39.465117Z",
+                        "updated_at": "0001-01-01T00:00:00Z",
+                        "approved_by": 723,
+                        "invoice_date": "2024-06-04T18:49:39.493202582-05:00",
+                        "observations": "",
+                        "prorated_days": 0,
+                        "payment_method": "SUPPORT",
+                        "subscription_order_id": 40201
+                    }
+                }
+            },
+            "country": "COLOMBIA",
+            "account": "BANCOLOMBIA: Cta Ahorros 91208958165",
+            "approved_by": 723,
+            "approver": "Alejandro Rodriguez",
+            "state": "PAGADO",
+            "support": "4e65a9d6-0bba-4b8f-9b0e-00f8d0d05775.jpeg",
+            "payer_email": "",
+            "total": 84000,
+            "payment_support_id": 10690,
+            "coupon_gift_status": "CREATED",
+            "is_gift": true,
+            "items": [
+                {
+                    "is_subscription": true,
+                    "course_id": 0,
+                    "course_name": "",
+                    "currency_id": 3,
+                    "price": 84000,
+                    "professor_percentage": 0,
+                    "course_picture": "",
+                    "exchange_rate": 4200,
+                    "months": 1,
+                    "begins_at": "",
+                    "ends_at": "",
+                    "is_renewal": false
+                }
+            ]
+        }
+    ],
+    "messages": [
+        {
+            "code": "ok"
+        }
+    ]
+}
